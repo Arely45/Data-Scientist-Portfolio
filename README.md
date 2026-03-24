@@ -14,7 +14,7 @@ Soy estadistica y cientifico de datos en formación con experiencia en análisis
 
 ## 🚀 Proyectos destacados
 
-### 🚗 [Análisis de vehículos en venta](link-a-tu-repo)
+### 🚗 [Análisis de vehículos en venta](https://github.com/Arely45/Data-Scientist-Portfolio/blob/main/vehicles_project.py)
 
 Aplicación web interactiva desarrollada con Streamlit que permite explorar datos de vehículos mediante histogramas y gráficos de dispersión.
 
@@ -22,7 +22,7 @@ Aplicación web interactiva desarrollada con Streamlit que permite explorar dato
 
 ---
 
-### 📱 [Análisis de ingresos en planes de telecomunicaciones](link-a-tu-repo)
+### 📱 [Análisis de ingresos en planes de telecomunicaciones](https://github.com/Arely45/Data-Scientist-Portfolio/blob/main/surf-vs-ultimate-revenue-analysis.ipynb)
 
 Análisis del comportamiento de clientes para identificar qué plan genera mayores ingresos, basado en datos de uso y facturación.
 
@@ -35,7 +35,7 @@ Análisis del comportamiento de clientes para identificar qué plan genera mayor
 
 ---
 
-### 🎮 [Análisis del mercado de videojuegos](link-a-tu-repo)
+### 🎮 [Análisis del mercado de videojuegos](https://github.com/Arely45/Data-Scientist-Portfolio/blob/main/video-game-sales-and-market-analysis.ipynb)
 
 Estudio de los factores que influyen en el éxito comercial de los videojuegos, incluyendo plataformas, géneros y preferencias regionales.
 
@@ -50,7 +50,7 @@ Estudio de los factores que influyen en el éxito comercial de los videojuegos, 
 
 ## 📫 Contacto
 
-* LinkedIn: (pon aquí tu link)
-* Email: (opcional)
+* LinkedIn: https://www.linkedin.com/in/arely-m%C3%A9ndez-8ab1b8218/
+* Email: areeh.mendez@gmail.com
 
 ---
