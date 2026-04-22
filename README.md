@@ -50,7 +50,7 @@ Estudio de los factores que influyen en el éxito comercial de los videojuegos, 
 
 ## 📫 Contacto
 
-* LinkedIn: https://www.linkedin.com/in/arely-m%C3%A9ndez-8ab1b8218/
+* LinkedIn: https://www.linkedin.com/in/arely-m%C3%A9ndez-data-scientist/
 * Email: areeh.mendez@gmail.com
 
 ---
